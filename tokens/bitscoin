@@ -1,0 +1,9 @@
+{
+    "policyId": "81fd41215b08ab60f78dda8c076487f65228ace5bb9ca122e8bc05f4",
+    "name": "BITSCOIN", 
+    "symbol": "$BITS", 
+    "website": "https://bitscoin.dev/", 
+    "description": "Digital bits of gold.",
+    "totalSupply": 21000000,
+    "amounts": [1,10,100,1000,10000]
+}
